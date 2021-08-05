@@ -1,7 +1,7 @@
 ---
 name: فرم گزارش آزمایش هفتم
 about: برای نوشتن گزارش آزمایشگاه از این تمپلیت استفاده کنید
-title: Session 6 Report
+title: Session 7 Report
 labels: documentation
 assignees: alimirferdos
 
