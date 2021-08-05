@@ -1,11 +1,11 @@
 <div dir="rtl" align='justify'>
   
-# آزمایش نهم
+# آزمایش هفتم
 
 
 در بیشتر جلسه تابستان به اندازه دو جلسه ترم های عادی آزمایش انجام می دهیم.
 
-- [دستور آزمایش نهم](https://github.com/Sharif-OS-Lab/session-9/blob/main/session9.md)
+- [دستور آزمایش هفتم](https://github.com/Sharif-OS-Lab/session-7/blob/main/session7.md)
   
 
 در حین انجام هر آزمایش از تب issues داخل ریپوی پرایوت خودتان گزارش آزمایش را بر اساس تمپلیت بنویسید. بعد از ددلاین ایشو ها تصحیح می شوند.
@@ -31,3 +31,6 @@
 کانال تلگرام آزمایشگاه: https://t.me/Sharif_OS_Lab
   
 </div>
+
+
+
