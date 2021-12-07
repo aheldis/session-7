@@ -101,7 +101,7 @@ gcc thread.c –o threads –lpthread
 <div dir="ltr">
 
 ```c
-void kid(void* param) {
+void* kid(void* param) {
 	int local_param;
 	printf("Thread %d, pid %d, addresses: &global: %X, &local: &X \n", 
 	         pthread_self(), getpid(), &global_param , &local_param);
