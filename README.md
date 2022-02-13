@@ -1,4 +1,4 @@
-<div dir="rtl" align='justify'>
+
   
 # آزمایش هفتم
 
@@ -30,7 +30,5 @@
 
 کانال تلگرام آزمایشگاه: https://t.me/Sharif_OS_Lab
   
-</div>
-
 
 
